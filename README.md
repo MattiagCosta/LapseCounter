@@ -146,4 +146,4 @@ Dated: 2025-06-12
 
 ### License
 
-This project is available under the [MIT License](https://github.com/MattiagCosta/MGC-Programs/blob/main/LICENSE).
+This project is available under the [MIT License](https://mit-license.org/).
