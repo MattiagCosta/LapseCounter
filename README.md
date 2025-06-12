@@ -140,7 +140,7 @@ Under the directory "LapseCounter\":
 
 Authors: MGC
 
-Version: 1.0.0
+Version: 1.0.2
 
 Dated: 2025-06-12
 
